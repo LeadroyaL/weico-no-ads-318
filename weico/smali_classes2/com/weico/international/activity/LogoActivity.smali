@@ -332,7 +332,7 @@
 
     if-eqz v0, :cond_1
 
-    const-string v0, "sinaAD"
+    const-string v0, "main"
 
     return-object v0
 
